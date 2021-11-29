@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650627819501",
+    "project_id": "uts-mobile-programming",
+    "storage_bucket": "uts-mobile-programming.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650627819501:android:c446d7d20ca589a03ca9e4",
+        "android_client_info": {
+          "package_name": "com.hms.utsmobileprogramming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650627819501-e8slqlq5lkcd5u0dnukr9a2ar90vp5hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0WZ-D2XN5wE5arOPVjnbCuauvIz1LORM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650627819501-e8slqlq5lkcd5u0dnukr9a2ar90vp5hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

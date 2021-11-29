@@ -1,0 +1,70 @@
+{
+  "Drink" : {
+    "01" : {
+      "image" : "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2020/TRATHACHVAI_1.png",
+      "name" : "Tea Lychee",
+      "price" : "15000"
+    },
+    "02" : {
+      "image" : "https://www.highlandscoffee.com.vn/vnt_upload/product/03_2018/thumbs/270_crop_TRATHANHDAO.png",
+      "name" : "Tea Peach",
+      "price" : "10000"
+    },
+    "03" : {
+      "image" : "https://www.highlandscoffee.com.vn/vnt_upload/product/03_2018/thumbs/270_crop_TRASENVANG.png",
+      "name" : "Tea Lotus",
+      "price" : "9000"
+    },
+    "04" : {
+      "image" : "https://www.highlandscoffee.com.vn/vnt_upload/product/04_2020/thumbs/270_crop_Bac_Xiu_Da.png",
+      "name" : "Ice Bac Xiu",
+      "price" : "12500"
+    },
+    "05" : {
+      "image" : "https://www.highlandscoffee.com.vn/vnt_upload/product/05_2018/thumbs/270_crop_CFD.png",
+      "name" : "Coffe Black",
+      "price" : "14000"
+    },
+    "06" : {
+      "image" : "https://www.highlandscoffee.com.vn/vnt_upload/product/03_2018/thumbs/270_crop_PHIN-SUA-DA.png",
+      "name" : "Coffe Milk",
+      "price" : "12000"
+    }
+  },
+  "Food" : {
+    "11" : {
+      "image" : "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1603606451/bclqabsurjd7zzftliy2.jpg",
+      "name" : "Pizza Italy",
+      "price" : "30000"
+    },
+    "12" : {
+      "image" : "https://cdn1-production-images-kly.akamaized.net/KxuztQKl3tnUN0Fw5iAwKsnX_u0=/0x148:1920x1230/640x360/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3093328/original/069244600_1585909700-fried-2509089_1920.jpg",
+      "name" : "Nasi Goreng",
+      "price" : "26000"
+    },
+    "13" : {
+      "image" : "https://img-global.cpcdn.com/recipes/a53bb2efe5330adf/680x482cq70/mie-goreng-thai-foto-resep-utama.jpg",
+      "name" : "Mie Thai",
+      "price" : "24500"
+    }
+  },
+  "Snack" : {
+    "21" : {
+      "image" : "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/3/17/bf18431b-14cc-442c-9d43-b7a54522e79c.png",
+      "name" : "FRENCH FRIES 2000",
+      "price" : "8000"
+    }
+  },
+  "TopUp" : {
+    "31" : {
+      "image" : "https://media-exp1.licdn.com/dms/image/C510BAQFOOuMJjGhPRw/company-logo_200_200/0/1563954592323?e=2159024400&v=beta&t=DHnerEqsGVa7oM9U7ALCrEypFO7wsBEC2lmzRkk8gFg",
+      "name" : "GoPay 20000",
+      "price" : "21000"
+    },
+    "32" : {
+      "image" : "https://play-lh.googleusercontent.com/v0UW49SrkxIzfRRhYArIJvP456-QeKT9-1Yxk19gwJESPidGAnJS7n7_sHZe81NpX_E",
+      "name" : "DANA 10000",
+      "price" : "11000"
+    }
+  }
+}

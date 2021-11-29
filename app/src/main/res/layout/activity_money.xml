@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MoneyActivity">
+
+    <LinearLayout
+        android:id="@+id/panel"
+        android:background="#E7E7E7"
+        android:orientation="horizontal"
+        android:weightSum="16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/btnBack"
+            android:layout_gravity="start|center_vertical"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:layout_height="?android:attr/actionBarSize"/>
+
+        <TextView
+            android:text="Order Complete"
+            android:layout_gravity="center_vertical"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="11"
+            android:layout_height="wrap_content"/>
+
+        <FrameLayout
+            android:id="@+id/btnCart"
+            android:layout_width="0dp"
+            android:layout_weight="3"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/btnHome"
+                android:src="@drawable/ic_baseline_home_35"
+                android:layout_gravity="center_vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/th"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/panel"
+        android:layout_marginTop="1dp"
+        android:text="Your order complate Thank You"
+        android:textColor="#FF0000"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtTotal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/th"
+        android:layout_marginTop="1dp"
+        android:text="Rp. 0"
+        android:textColor="#FF0000"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_money"
+        android:padding="8dp"
+        android:layout_below="@+id/txtTotal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>
