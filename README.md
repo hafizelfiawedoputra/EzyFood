@@ -1,5 +1,5 @@
 # TEzyFood
-Project Mid Test for the Mobile Programming course, the theme of the application is ordering food and drinks through an application using an API.
+Mobile Programming course project, the theme of the application is ordering food and beverages through an application using an API.
 
 And can install applications in APK files (Android Smartphones only):
 https://bit.ly/3pseQBl
